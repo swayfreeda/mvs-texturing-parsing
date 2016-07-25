@@ -1,0 +1,2 @@
+/usr/bin/ar cr libmrf.a  CMakeFiles/mrf.dir/lbp_graph.o CMakeFiles/mrf.dir/icm_graph.o CMakeFiles/mrf.dir/graph.o CMakeFiles/mrf.dir/gco_graph.o
+/usr/bin/ranlib libmrf.a

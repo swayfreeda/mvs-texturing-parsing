@@ -1,0 +1,9 @@
+*.o
+*.a
+*.so
+/elibs/coldet/doc/
+/elibs/eigen/
+/elibs/mve/docs/
+/elibs/mve/apps/umve
+*.html
+
